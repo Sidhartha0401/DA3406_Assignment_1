@@ -1,0 +1,6 @@
+# Core experiments use only Python stdlib; Python's SQLite must be >=3.44.
+# Packages below are needed only for PDF regeneration/render verification.
+reportlab==5.0.1
+PyMuPDF==1.28.2
+Pillow==10.4.0
+charset-normalizer==3.4.3
